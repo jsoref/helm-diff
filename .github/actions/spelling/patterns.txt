@@ -1,0 +1,4 @@
+# <word>v#
+[Vv]\d+(?:\b|(?=[a-zA-Z_]))
+# tar arguments
+\b(?:)tar(?:\s+-[a-zA-Z]+|\s[a-z]+)+
